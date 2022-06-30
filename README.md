@@ -1,3 +1,3 @@
 # BASIC-CALCULATOR
-This helps us to do simple mathematical calculations
-not a good one leave !!!!
+
+a basic calculator just using javascript with no involvement of css
